@@ -1,4 +1,4 @@
-Instructions of owner from un-secured Amadon Store
+Instructions of owner from un-secured Amadon Store:
 
 ## Welcome to Amadon
 There are some serious issues with this code! Follow the instructions below to understand what those issues are, and then figure out how to resolve them.
